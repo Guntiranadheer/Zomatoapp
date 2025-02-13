@@ -1,0 +1,51 @@
+.footer-img{
+    height: 500px;
+    width: 500px;
+}
+.btn2{
+    width: 150px;
+    height: 50px;
+    background-color: violet;
+    color: white;
+    margin: 5px;
+    border-radius: 10px;
+    
+}
+.footer-input{
+background-color: beige;
+height: 50px;
+width: 200px;
+border-radius: 10px;
+}
+.footer-google-btn{
+    width: 100px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: mediumslateblue;
+}
+.total-card{
+    margin-top: 100px;
+}
+.footers-links{
+background-color: grey;
+height: 300px;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.social-links{
+    color:white;
+
+}
+.links{
+    margin: 10px;
+}
+.nice-btn{
+    background-color: blueviolet;
+    height: 50px;
+    border-radius: 10px;
+    margin: 5px;
+}

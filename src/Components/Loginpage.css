@@ -1,0 +1,25 @@
+.moves{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.login-card{
+    width: 350px;
+}
+.create-page{
+    color: brown;
+
+}
+.email-btn{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.password-btn{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.phone{
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

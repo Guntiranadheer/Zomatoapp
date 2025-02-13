@@ -1,0 +1,19 @@
+.card-img{
+height: 200px;
+width: 300px;
+}
+.body-card{
+width: 300px;
+height: 300px;
+margin-left: 10px;
+}
+.super-cards{
+   gap: 10px;
+}
+.containers{
+    padding: 10px;
+}
+.card-move{
+    margin-left: 220px;
+}
+

@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+.navbar-section{
+    justify-content: space-around;
+    list-style: none;
+    color: white;
+    gap: 55px;
+}
+.getapp{
+    margin-left:200px ;
+}
+.signup{
+    margin-right: 70px;
+}
+.investors-nav{
+    margin-left: 500px;
+
+}
+
+.background-image{
+    background-image: url(" https://img.freepik.com/free-photo/barbecue-salad-salad-with-beans-wooden-board_140725-2925.jpg?t=st=1739168348~exp=1739171948~hmac=29f51fe14b090d7295415d348f6b4871abdb91ce7975ada79969f349ca4ecf04&w=826");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.zomato-heading{
+    margin-left: 600px;
+    font-size: 70px;
+    color: white;
+}
+.best-food{
+    margin-left: 440px;
+    font-size: 30px;
+    color: white;
+}
+.input-text{
+    height: 50px;
+    width: 500px;
+    border: none;
+    border-radius:5px;
+    margin-bottom: 500px;
+    margin-left: 520px;
+}
+.nav{
+    height: 350px;
+    width: 100%;
+}
+.selection-nav{
+    margin-right: 600px;
+    position: absolute;
+    margin-top: 193px;
+    margin-left: 430px; 
+   
+}
+.option-nav{
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+

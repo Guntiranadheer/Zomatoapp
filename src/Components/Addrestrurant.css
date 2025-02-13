@@ -1,0 +1,36 @@
+.chicken-fry{
+    height: 600px;
+
+}
+.back-image{
+    background-image: url("https://images.unsplash.com/photo-1600555379765-f82335a7b1b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    height: 500px;
+    background-size: cover;
+    margin-top: 50px;
+
+}
+.add-zomato{
+    margin-left: 600px;
+}
+.two-list{
+    justify-content: space-between;
+    font-size: 20px;
+    list-style: none;
+}
+.para11{
+    margin-left: 500px;
+}
+.para1{
+    font-size: 40px;
+    margin-right: 500px;
+
+}
+.register{
+    margin-left: 80px;
+}
+.login-add{
+    margin-right: 100px;
+}
+.woow-zomato{
+    margin-top: 100px;
+}
